@@ -22,7 +22,7 @@ docker network create ollama-net
 
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/namakamu/moodle-docker-compose.git
+   git clone https://github.com/ade-karya/moodle.git
    cd moodle-docker-compose
    ```
 
