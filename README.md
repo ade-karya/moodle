@@ -37,8 +37,8 @@ Sebelum Anda memulai, pastikan Anda telah menginstal yang berikut ini di sistem 
 1.  **Klon Repositori (jika berlaku)**:
     Jika Anda belum melakukannya, klon repositori ini ke mesin lokal Anda:
     ```bash
-    git clone [URL_REPOSITORI_ANDA]
-    cd [NAMA_REPOSITORI_ANDA]
+    git clone https://github.com/ade-karya/moodle.git
+    cd moodle
     ```
     Jika Anda sudah memiliki file-file ini, pastikan semuanya berada dalam satu direktori.
 
