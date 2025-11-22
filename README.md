@@ -96,7 +96,3 @@ docker-compose start
 ## Kontribusi
 
 Jangan ragu untuk memfork repositori ini, melakukan perbaikan, dan mengirimkan permintaan pull.
-
-## Lisensi
-
-Proyek ini bersifat open-source dan tersedia di bawah ![License](https://img.shields.io/badge/license-MIT-brightgreen).
