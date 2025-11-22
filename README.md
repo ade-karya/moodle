@@ -99,4 +99,4 @@ Jangan ragu untuk memfork repositori ini, melakukan perbaikan, dan mengirimkan p
 
 ## Lisensi
 
-Proyek ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE) (atau tentukan lisensi pilihan Anda).
+Proyek ini bersifat open-source dan tersedia di bawah ![License](https://img.shields.io/badge/license-MIT-brightgreen).
